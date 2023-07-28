@@ -1,3 +1,5 @@
+![Screenshot of the desktop version](https://github.com/skippyskiddy/weather-app/blob/main/Desktop%20Version.png?raw=true)
+
 # Real-Time Weather Application
 
 This is a dynamic and user-friendly application that provides users with real-time weather conditions and local time for any location around the world. 
