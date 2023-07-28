@@ -1,9 +1,12 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from datetime import datetime
 import requests
 import pytz
 
 app = Flask(__name__)
+CORS(app, origins=["http://localhost:5173"])
+
 
 @app.route('/weather', methods=['GET'])
 def get_weather_for_location():

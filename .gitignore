@@ -1,1 +1,3 @@
 __pycache__
+weather_ui/node_modules
+.DS_Store
